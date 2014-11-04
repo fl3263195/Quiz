@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/ZSong/AndroidStudioProjects/InstagramTest/app/build/intermediates/pre-dexed/debug/lib-manipulation-3.1.0-a2c5c10b9c9592209f3155b5ce951b91a252c052.jar"
+        jar="/Users/ZSong/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-manipulation/3.1.0/63737e512fcd9e0ebe9bcd0bb375c2dded74116f/lib-manipulation-3.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f"/>
+    <item
+        dex="/Users/ZSong/AndroidStudioProjects/InstagramTest/app/build/intermediates/pre-dexed/debug/lib-core-3.1.0-906f4fa99aa3b42b25ffda538d6134e47e940820.jar"
+        jar="/Users/ZSong/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core/3.1.0/f3f9629b068554d8513a2aaf34418171bf430851/lib-core-3.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851"/>
+    <item
+        dex="/Users/ZSong/AndroidStudioProjects/InstagramTest/app/build/intermediates/pre-dexed/debug/picasso-2.3.4-b6298485f21bc8f773ba4836350dc0af10b2e18e.jar"
+        jar="/Users/ZSong/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.4/3b646ddbdac8a33fc45b64564011da81d23e4635/picasso-2.3.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3b646ddbdac8a33fc45b64564011da81d23e4635"/>
+    <item
+        dex="/Users/ZSong/AndroidStudioProjects/InstagramTest/app/build/intermediates/pre-dexed/debug/library-2.4.0-84bf1497b74eaec0983fb9aed50afcf16ad5ff5f.jar"
+        jar="/Users/ZSong/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb"/>
+
+</pre-dex-items>
