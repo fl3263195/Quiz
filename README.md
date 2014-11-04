@@ -11,3 +11,5 @@ For endless ListView, I simply monitor the scroll event and trigger the LoadMore
 For picture enlarging, I use the new Activity transition effect to let the user not feel the gap between two Activities. Bugs exist when scrolling too fast. No time to debug.
 
 Simple styling the app. No time to add touch feedback.
+
+Use Android Studio to open this project. Only support API 16 or above.
